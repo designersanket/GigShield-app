@@ -128,3 +128,8 @@ Adarsh
 🏁 Project Type: AI + Web Application
 
 🎯 Focus: Real-world problem solving
+
+<img width="1217" height="731" alt="Screenshot 2026-03-20 235101" src="https://github.com/user-attachments/assets/ef554036-1354-4446-9023-ffc59b6d63b1" />
+<img width="1590" height="869" alt="Screenshot 2026-03-20 235123" src="https://github.com/user-attachments/assets/ff4b10a4-b53c-4e67-bf3a-b7f6fc072f54" />
+
+
